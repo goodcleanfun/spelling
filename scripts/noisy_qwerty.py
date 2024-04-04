@@ -2,8 +2,8 @@ import json
 import math
 import os
 from collections import namedtuple
-from foundational.download import download_file
-from foundational.zip_archive import unzip_all_files
+from communal.download import download_file
+from communal.zip_archive import unzip_all_files
 
 NOISY_TYPING_URL = "https://osf.io/download/sdb23"
 
